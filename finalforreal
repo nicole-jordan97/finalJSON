@@ -1,0 +1,350 @@
+[
+ {
+   "aisle": 8,
+   "brand": "Cheetos",
+   "product": "chips",
+   "id": 1
+ },
+ {
+   "aisle": 8,
+   "brand": "Tostitos",
+   "product": "chips",
+   "id": 2
+ },
+ {
+   "aisle": 8,
+   "brand": "Baked lays",
+   "product": "chips",
+   "id": 3
+ },
+ {
+   "aisle": 8,
+   "brand": "Doritos",
+   "product": "chips",
+   "id": 4
+ },
+ {
+   "aisle": 8,
+   "brand": "Ruffles",
+   "product": "chips",
+   "id": 5
+ },
+ {
+   "aisle": 8,
+   "brand": "Fritos",
+   "product": "chips",
+   "id": 6
+ },
+ {
+   "aisle": 8,
+   "brand": "Hot Cheetos",
+   "product": "chips",
+   "id": 7
+ },
+ {
+   "aisle": 8,
+   "brand": "Smart Popcorn",
+   "product": "popcorn",
+   "id": 8
+ },
+ {
+   "aisle": 8,
+   "brand": "Pretzel Crisps",
+   "product": "pretzels",
+   "id": 9
+ },
+ {
+   "aisle": 3,
+   "brand": "Heinz Ketchup",
+   "product": "ketchup",
+   "id": 10
+ },
+ {
+   "aisle": 3,
+   "brand": "Frenchies Mustard",
+   "product": "mustard",
+   "id": 11
+ },
+ {
+   "aisle": 3,
+   "brand": "Duke's Mayonaise",
+   "product": "mayonaise",
+   "id": 12
+ },
+ {
+   "aisle": 3,
+   "brand": "Texas Pete",
+   "product": "hot sauce",
+   "id": 13
+ },
+ {
+   "aisle": 3,
+   "brand": "Sweet Baby Ray's BBQ Sauce",
+   "product": "barbeque sauce",
+   "id": 14
+ },
+ {
+   "aisle": 1,
+   "brand": "Hidden Valley Ranch",
+   "product": "salad dressing",
+   "id": 15
+ },
+ {
+   "aisle": 1,
+   "brand": "Kraft Zesty Italian",
+   "product": "salad dressing",
+   "id": 16
+ },
+ {
+   "aisle": 1,
+   "brand": "Olive Garden Italian",
+   "product": "salad dressing",
+   "id": 17
+ },
+ {
+   "aisle": 1,
+   "brand": "Kraft Classic Caesar",
+   "product": "salad dressing",
+   "id": 18
+ },
+ {
+   "aisle": 1,
+   "brand": "Salad Toppers",
+   "product": "salad dressing",
+   "id": 19
+ },
+ {
+   "aisle": 7,
+   "brand": "Nutter Butters",
+   "product": "cookies",
+   "id": 20
+ },
+ {
+   "aisle": 7,
+   "brand": "Oreos",
+   "product": "cookies",
+   "id": 21
+ },
+ {
+   "aisle": 7,
+   "brand": "Nutty Buddy",
+   "product": "little debbies",
+   "id": 22
+ },
+ {
+   "aisle": 7,
+   "brand": "Honey Buns",
+   "product": "little debbies",
+   "id": 23
+ },
+ {
+   "aisle": 7,
+   "brand": "Oatmeal Crème Pies",
+   "product": "little debbies",
+   "id": 24
+ },
+ {
+   "aisle": 7,
+   "brand": "Cosmic Brownies",
+   "product": "little debbies",
+   "id": 25
+ },
+ {
+   "aisle": 7,
+   "brand": "Swiss Rolls",
+   "product": "little debbies",
+   "id": 26
+ },
+ {
+   "aisle": 7,
+   "brand": "chips ahoy",
+   "product": "cookies",
+   "id": 27
+ },
+ {
+   "aisle": 7,
+   "brand": "Hostess Donettes",
+   "product": "donuts",
+   "id": 28
+ },
+ {
+   "aisle": 6,
+   "brand": "Ritz Crackers",
+   "product": "crackers",
+   "id": 29
+ },
+ {
+   "aisle": 6,
+   "brand": "Goldfish",
+   "product": "goldfish",
+   "id": 30
+ },
+ {
+   "aisle": 6,
+   "brand": "Cheez-Its",
+   "product": "crackers",
+   "id": 31
+ },
+ {
+   "aisle": 6,
+   "brand": "Club Crackers",
+   "product": "crackers",
+   "id": 32
+ },
+ {
+   "aisle": 6,
+   "brand": "Ritz Peanut Butter Crackers",
+   "product": "crackers",
+   "id": 33
+ },
+ {
+   "aisle": 6,
+   "brand": "Orville Redenbacher's Popcorn",
+   "product": "popcorn",
+   "id": 34
+ },
+ {
+   "aisle": 6,
+   "brand": "Pop-Secret PopCorn",
+   "product": "popcorn",
+   "id": 35
+ },
+ {
+   "aisle": 2,
+   "brand": "Nature's Own Honey Wheat Bread",
+   "product": "bread",
+   "id": 36
+ },
+ {
+   "aisle": 2,
+   "brand": "Sunbeam Giant Bread",
+   "product": "bread",
+   "id": 37
+ },
+ {
+   "aisle": 2,
+   "brand": "Wonder Bread",
+   "product": "bread",
+   "id": 38
+ },
+ {
+   "aisle": 2,
+   "brand": "Hamburger Buns",
+   "product": "bread",
+   "id": 39
+ },
+ {
+   "aisle": 4,
+   "brand": "Sugar",
+   "product": "sugar",
+   "id": 40
+ },
+ {
+   "aisle": 4,
+   "brand": "Powdered Sugar",
+   "product": "sugar",
+   "id": 41
+ },
+ {
+   "aisle": 4,
+   "brand": "Vegetable Oil",
+   "product": "vegetable oil",
+   "id": 42
+ },
+ {
+   "aisle": 4,
+   "brand": "Betty Crocker Vanilla Cake Mix",
+   "product": "cake mix",
+   "id": 43
+ },
+ {
+   "aisle": 4,
+   "brand": "Betty Crocker Chocolate Cake Mix",
+   "product": "cake mix",
+   "id": 44
+ },
+ {
+   "aisle": 4,
+   "brand": "Betty Crocker Vanilla Icing",
+   "product": "icing",
+   "id": 45
+ },
+ {
+   "aisle": 4,
+   "brand": "Betty Crocker Chocolate Icing",
+   "product": "icing",
+   "id": 46
+ },
+ {
+   "aisle": 5,
+   "brand": "Chef Boyardee Ravioli",
+   "product": "raviolli",
+   "id": 47
+ },
+ {
+   "aisle": 5,
+   "brand": "Campbell's Chicken Noodle Soup",
+   "product": "soup",
+   "id": 48
+ },
+ {
+   "aisle": 5,
+   "brand": "Campbell's Tomato Soup",
+   "product": "soup",
+   "id": 49
+ },
+ {
+   "aisle": 5,
+   "brand": "Del Monte Whole Kernel Corn",
+   "product": "corn",
+   "id": 50
+ },
+ {
+   "aisle": 5,
+   "brand": "Del Monte Sweet Peas",
+   "product": "peas",
+   "id": 51
+ },
+ {
+   "aisle": 5,
+   "brand": "Green Giant Green Beans",
+   "product": "green beans",
+   "id": 52
+ },
+ {
+   "aisle": 9,
+   "brand": "Gatorade",
+   "product": "drinks",
+   "id": 53
+ },
+ {
+   "aisle": 9,
+   "brand": "Coke",
+   "product": "drinks",
+   "id": 54
+ },
+ {
+   "aisle": 9,
+   "brand": "Pepsi",
+   "product": "drinks",
+   "id": 55
+ },
+ {
+   "aisle": 9,
+   "brand": "Mountain Dew",
+   "product": "drinks",
+   "id": 56
+ },
+ {
+   "aisle": 9,
+   "brand": "Dr. Pepper",
+   "product": "drinks",
+   "id": 57
+ },
+ {
+   "aisle": 9,
+   "brand": "Sprite",
+   "product": "drinks",
+   "id": 58
+ }
+]
