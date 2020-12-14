@@ -3,348 +3,580 @@
    "aisle": 8,
    "brand": "Cheetos",
    "product": "chips",
-   "id": 1
+   "id": 44,
+   "images": "cheetos",
+   "price": 2.99,
+   "calories": 150,
+   "sale": "sale"
  },
  {
    "aisle": 8,
-   "brand": "Tostitos",
+   "brand": "Tostitos Chips",
    "product": "chips",
-   "id": 2
+   "id": 45,
+   "images": "tostitos",
+   "price": 3.5,
+   "calories": 140,
+   "sale": ""
  },
  {
    "aisle": 8,
-   "brand": "Baked lays",
+   "brand": "Baked lays Chips",
    "product": "chips",
-   "id": 3
+   "id": 46,
+   "images": "baked lays",
+   "price": 3.5,
+   "calories": 100,
+   "sale": "sale"
  },
  {
    "aisle": 8,
-   "brand": "Doritos",
+   "brand": "Doritos Chips",
    "product": "chips",
-   "id": 4
+   "id": 47,
+   "images": "doritos",
+   "price": 2.99,
+   "calories": 150,
+   "sale": ""
  },
  {
    "aisle": 8,
-   "brand": "Ruffles",
+   "brand": "Ruffles Chips",
    "product": "chips",
-   "id": 5
+   "id": 48,
+   "images": "ruffles",
+   "price": 2.5,
+   "calories": 160,
+   "sale": ""
  },
  {
    "aisle": 8,
-   "brand": "Fritos",
+   "brand": "Fritos Chips",
    "product": "chips",
-   "id": 6
+   "id": 49,
+   "images": "fritos",
+   "price": 1.99,
+   "calories": 120,
+   "sale": ""
  },
  {
    "aisle": 8,
    "brand": "Hot Cheetos",
    "product": "chips",
-   "id": 7
+   "id": 50,
+   "images": "hot cheetos",
+   "price": 3.25,
+   "calories": 150,
+   "sale": ""
  },
  {
    "aisle": 8,
    "brand": "Smart Popcorn",
    "product": "popcorn",
-   "id": 8
+   "id": 51,
+   "images": "smart popcorn",
+   "price": 3.99,
+   "calories": 120,
+   "sale": "sale"
  },
  {
    "aisle": 8,
    "brand": "Pretzel Crisps",
    "product": "pretzels",
-   "id": 9
+   "id": 52,
+   "images": "pretzel crisps",
+   "price": 2.99,
+   "calories": 100,
+   "sale": ""
  },
  {
    "aisle": 3,
    "brand": "Heinz Ketchup",
    "product": "ketchup",
-   "id": 10
+   "id": 10,
+   "images": "heinz ketchup",
+   "price": 1.99,
+   "calories": 19,
+   "sale": ""
  },
  {
    "aisle": 3,
-   "brand": "Frenchies Mustard",
+   "brand": "French's Mustard",
    "product": "mustard",
-   "id": 11
+   "id": 11,
+   "images": "french's mustard",
+   "price": 1.99,
+   "calories": 5,
+   "sale": ""
  },
  {
    "aisle": 3,
-   "brand": "Duke's Mayonaise",
+   "brand": "Duke's Mayonnaise",
    "product": "mayonaise",
-   "id": 12
+   "id": 12,
+   "images": "dukes mayonnaise",
+   "price": 3,
+   "calories": 30,
+   "sale": ""
  },
  {
    "aisle": 3,
-   "brand": "Texas Pete",
+   "brand": "Texas Pete Hot Sauce",
    "product": "hot sauce",
-   "id": 13
+   "id": 13,
+   "images": "texas pete",
+   "price": 2.5,
+   "calories": 2,
+   "sale": ""
  },
  {
    "aisle": 3,
-   "brand": "Sweet Baby Ray's BBQ Sauce",
+   "brand": "Sweet Baby Ray's Barbeque Sauce",
    "product": "barbeque sauce",
-   "id": 14
+   "id": 14,
+   "images": "sweet baby rays",
+   "price": 1.99,
+   "calories": 20,
+   "sale": ""
  },
  {
    "aisle": 1,
-   "brand": "Hidden Valley Ranch",
+   "brand": "Hidden Valley Ranch Salad Dressing",
    "product": "salad dressing",
-   "id": 15
+   "id": 1,
+   "images": "hidden valley ranch",
+   "price": 2.99,
+   "calories": 145,
+   "sale": "sale"
  },
  {
    "aisle": 1,
-   "brand": "Kraft Zesty Italian",
+   "brand": "Kraft Zesty Italian Salad Dressing",
    "product": "salad dressing",
-   "id": 16
+   "id": 2,
+   "images": "kraft zesty italian",
+   "price": 1.99,
+   "calories": 120,
+   "sale": ""
  },
  {
    "aisle": 1,
-   "brand": "Olive Garden Italian",
+   "brand": "Olive Garden Italian Salad Dressing",
    "product": "salad dressing",
-   "id": 17
+   "id": 3,
+   "images": "olive garden italian",
+   "price": 3.5,
+   "calories": 120,
+   "sale": ""
  },
  {
    "aisle": 1,
-   "brand": "Kraft Classic Caesar",
+   "brand": "Kraft Classic Caesar Salad Dressing",
    "product": "salad dressing",
-   "id": 18
+   "id": 4,
+   "images": "kraft classic caesar",
+   "price": 1.99,
+   "calories": 145,
+   "sale": ""
  },
  {
    "aisle": 1,
-   "brand": "Salad Toppers",
+   "brand": "McCormack Salad Toppers",
    "product": "salad dressing",
-   "id": 19
+   "id": 5,
+   "images": "salad toppers",
+   "price": 4,
+   "calories": 30,
+   "sale": ""
  },
  {
    "aisle": 7,
-   "brand": "Nutter Butters",
+   "brand": "Nutter Butter Cookies",
    "product": "cookies",
-   "id": 20
+   "id": 35,
+   "images": "nutter butters",
+   "price": 3.5,
+   "calories": 140,
+   "sale": ""
  },
  {
    "aisle": 7,
-   "brand": "Oreos",
+   "brand": "Oreos Cookies",
    "product": "cookies",
-   "id": 21
+   "id": 36,
+   "images": "oreos",
+   "price": 3.5,
+   "calories": 150,
+   "sale": ""
  },
  {
    "aisle": 7,
    "brand": "Nutty Buddy",
    "product": "little debbies",
-   "id": 22
+   "id": 37,
+   "images": "nutty buddy",
+   "price": 2.99,
+   "calories": 150,
+   "sale": "sale"
  },
  {
    "aisle": 7,
    "brand": "Honey Buns",
    "product": "little debbies",
-   "id": 23
+   "id": 38,
+   "images": "honey buns",
+   "price": 2.99,
+   "calories": 280,
+   "sale": ""
  },
  {
    "aisle": 7,
    "brand": "Oatmeal Crème Pies",
    "product": "little debbies",
-   "id": 24
+   "id": 39,
+   "images": "oatmeal creme pies",
+   "price": 2.99,
+   "calories": 280,
+   "sale": ""
  },
  {
    "aisle": 7,
    "brand": "Cosmic Brownies",
    "product": "little debbies",
-   "id": 25
+   "id": 40,
+   "images": "cosmic brownies",
+   "price": 2.99,
+   "calories": 280,
+   "sale": ""
  },
  {
    "aisle": 7,
    "brand": "Swiss Rolls",
    "product": "little debbies",
-   "id": 26
+   "id": 41,
+   "images": "swiss rolls",
+   "price": 2.99,
+   "calories": 280,
+   "sale": ""
  },
  {
    "aisle": 7,
-   "brand": "chips ahoy",
+   "brand": "chips ahoy Cookies",
    "product": "cookies",
-   "id": 27
+   "id": 42,
+   "images": "chips ahoy",
+   "price": 2.99,
+   "calories": 280,
+   "sale": "sale"
  },
  {
    "aisle": 7,
    "brand": "Hostess Donettes",
    "product": "donuts",
-   "id": 28
+   "id": 43,
+   "images": "hostess donettes",
+   "price": 3.5,
+   "calories": 280,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Ritz Crackers",
    "product": "crackers",
-   "id": 29
+   "id": 28,
+   "images": "ritz crackers",
+   "price": 3.99,
+   "calories": 350,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Goldfish",
    "product": "goldfish",
-   "id": 30
+   "id": 29,
+   "images": "goldfish",
+   "price": 1.99,
+   "calories": 170,
+   "sale": ""
  },
  {
    "aisle": 6,
-   "brand": "Cheez-Its",
+   "brand": "Cheez-Its Crackers",
    "product": "crackers",
-   "id": 31
+   "id": 30,
+   "images": "cheez its",
+   "price": 2.5,
+   "calories": 120,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Club Crackers",
    "product": "crackers",
-   "id": 32
+   "id": 31,
+   "images": "club crackers",
+   "price": 2.5,
+   "calories": 170,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Ritz Peanut Butter Crackers",
    "product": "crackers",
-   "id": 33
+   "id": 32,
+   "images": "ritz peanut butter crackers",
+   "price": 3,
+   "calories": 150,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Orville Redenbacher's Popcorn",
    "product": "popcorn",
-   "id": 34
+   "id": 33,
+   "images": "orville redenbacher",
+   "price": 4.5,
+   "calories": 90,
+   "sale": ""
  },
  {
    "aisle": 6,
    "brand": "Pop-Secret PopCorn",
    "product": "popcorn",
-   "id": 35
+   "id": 34,
+   "images": "pop secret popcorn",
+   "price": 4,
+   "calories": 80,
+   "sale": ""
  },
  {
    "aisle": 2,
    "brand": "Nature's Own Honey Wheat Bread",
    "product": "bread",
-   "id": 36
+   "id": 6,
+   "images": "natures own honey wheat",
+   "price": 4.99,
+   "calories": 120,
+   "sale": "sale"
  },
  {
    "aisle": 2,
    "brand": "Sunbeam Giant Bread",
    "product": "bread",
-   "id": 37
+   "id": 7,
+   "images": "sunbeam giant bread",
+   "price": 4.5,
+   "calories": 180,
+   "sale": ""
  },
  {
    "aisle": 2,
    "brand": "Wonder Bread",
    "product": "bread",
-   "id": 38
+   "id": 8,
+   "images": "wonder bread",
+   "price": 3.99,
+   "calories": 190,
+   "sale": ""
  },
  {
    "aisle": 2,
    "brand": "Hamburger Buns",
    "product": "bread",
-   "id": 39
+   "id": 9,
+   "images": "hamburger buns",
+   "price": 2.99,
+   "calories": 175,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Sugar",
    "product": "sugar",
-   "id": 40
+   "id": 15,
+   "images": "sugar",
+   "price": 3.25,
+   "calories": 30,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Powdered Sugar",
    "product": "sugar",
-   "id": 41
+   "id": 16,
+   "images": "powdered sugar",
+   "price": 2.99,
+   "calories": 30,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Vegetable Oil",
    "product": "vegetable oil",
-   "id": 42
+   "id": 17,
+   "images": "vegetable oil",
+   "price": 3,
+   "calories": 20,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Betty Crocker Vanilla Cake Mix",
    "product": "cake mix",
-   "id": 43
+   "id": 18,
+   "images": "betty crocker vanilla cake mix",
+   "price": 2.99,
+   "calories": 200,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Betty Crocker Chocolate Cake Mix",
    "product": "cake mix",
-   "id": 44
+   "id": 19,
+   "images": "betty crocker chocolate cake mix",
+   "price": 2.99,
+   "calories": 200,
+   "sale": "sale"
  },
  {
    "aisle": 4,
    "brand": "Betty Crocker Vanilla Icing",
    "product": "icing",
-   "id": 45
+   "id": 20,
+   "images": "betty crocker vanilla icing",
+   "price": 2.5,
+   "calories": 175,
+   "sale": ""
  },
  {
    "aisle": 4,
    "brand": "Betty Crocker Chocolate Icing",
    "product": "icing",
-   "id": 46
+   "id": 21,
+   "images": "betty crocker chocolate icing",
+   "price": 2.5,
+   "calories": 175,
+   "sale": "sale"
  },
  {
    "aisle": 5,
    "brand": "Chef Boyardee Ravioli",
-   "product": "raviolli",
-   "id": 47
+   "product": "ravioli",
+   "id": 22,
+   "images": "cheff boyardee ravioli",
+   "price": 1,
+   "calories": 125,
+   "sale": ""
  },
  {
    "aisle": 5,
    "brand": "Campbell's Chicken Noodle Soup",
    "product": "soup",
-   "id": 48
+   "id": 23,
+   "images": "campbells chicken noodle soup",
+   "price": 1.5,
+   "calories": 75,
+   "sale": ""
  },
  {
    "aisle": 5,
    "brand": "Campbell's Tomato Soup",
    "product": "soup",
-   "id": 49
+   "id": 24,
+   "images": "campbell's tomato soup",
+   "price": 1.5,
+   "calories": 75,
+   "sale": "sale"
  },
  {
    "aisle": 5,
-   "brand": "Del Monte Whole Kernel Corn",
+   "brand": "Del Monte Canned Whole Kernel Corn",
    "product": "corn",
-   "id": 50
+   "id": 25,
+   "images": "del monte whole kernel corn",
+   "price": 1.25,
+   "calories": 20,
+   "sale": ""
  },
  {
    "aisle": 5,
-   "brand": "Del Monte Sweet Peas",
+   "brand": "Del Monte Canned Sweet Peas",
    "product": "peas",
-   "id": 51
+   "id": 26,
+   "images": "del monte sweet peas",
+   "price": 1.25,
+   "calories": 20,
+   "sale": ""
  },
  {
    "aisle": 5,
-   "brand": "Green Giant Green Beans",
+   "brand": "Green Giant Canned Green Beans",
    "product": "green beans",
-   "id": 52
+   "id": 27,
+   "images": "green giant green beans",
+   "price": 1.5,
+   "calories": 20,
+   "sale": ""
  },
  {
    "aisle": 9,
    "brand": "Gatorade",
    "product": "drinks",
-   "id": 53
+   "id": 53,
+   "images": "gatorade",
+   "price": 1.99,
+   "calories": 120,
+   "sale": ""
  },
  {
    "aisle": 9,
    "brand": "Coke",
    "product": "drinks",
-   "id": 54
+   "id": 54,
+   "images": "coke",
+   "price": 4,
+   "calories": 180,
+   "sale": "sale"
  },
  {
    "aisle": 9,
    "brand": "Pepsi",
    "product": "drinks",
-   "id": 55
+   "id": 55,
+   "images": "pepsi",
+   "price": 4,
+   "calories": 180,
+   "sale": "sale"
  },
  {
    "aisle": 9,
    "brand": "Mountain Dew",
    "product": "drinks",
-   "id": 56
+   "id": 56,
+   "images": "mountain dew",
+   "price": 4,
+   "calories": 180,
+   "sale": ""
  },
  {
    "aisle": 9,
    "brand": "Dr. Pepper",
    "product": "drinks",
-   "id": 57
+   "id": 57,
+   "images": "dr.pepper",
+   "price": 4,
+   "calories": 180,
+   "sale": ""
  },
  {
    "aisle": 9,
    "brand": "Sprite",
    "product": "drinks",
-   "id": 58
+   "id": 58,
+   "images": "sprite",
+   "price": 4,
+   "calories": 180,
+   "sale": "sale"
  }
 ]
