@@ -14,7 +14,7 @@
    "product": "chips",
    "id": 45,
    "images": "tostitos",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 140
  },
  {
@@ -23,7 +23,7 @@
    "product": "chips",
    "id": 46,
    "images": "baked lays",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 100
  },
  {
@@ -41,7 +41,7 @@
    "product": "chips",
    "id": 48,
    "images": "ruffles",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 160
  },
  {
@@ -104,7 +104,7 @@
    "product": "mayonaise",
    "id": 12,
    "images": "dukes mayonnaise",
-   "price": 3,
+   "price": 3.00,
    "calories": 30
  },
  {
@@ -113,7 +113,7 @@
    "product": "hot sauce",
    "id": 13,
    "images": "texas pete",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 2
  },
  {
@@ -149,7 +149,7 @@
    "product": "salad dressing",
    "id": 3,
    "images": "olive garden italian",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 120
  },
  {
@@ -167,7 +167,7 @@
    "product": "salad dressing",
    "id": 5,
    "images": "salad toppers",
-   "price": 4,
+   "price": 4.00,
    "calories": 30
  },
  {
@@ -176,7 +176,7 @@
    "product": "cookies",
    "id": 35,
    "images": "nutter butters",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 140
  },
  {
@@ -185,7 +185,7 @@
    "product": "cookies",
    "id": 36,
    "images": "oreos",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 150
  },
  {
@@ -248,7 +248,7 @@
    "product": "donuts",
    "id": 43,
    "images": "hostess donettes",
-   "price": 3.5,
+   "price": 3.50,
    "calories": 280
  },
  {
@@ -275,7 +275,7 @@
    "product": "crackers",
    "id": 30,
    "images": "cheez its",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 120
  },
  {
@@ -284,7 +284,7 @@
    "product": "crackers",
    "id": 31,
    "images": "club crackers",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 170
  },
  {
@@ -293,7 +293,7 @@
    "product": "crackers",
    "id": 32,
    "images": "ritz peanut butter crackers",
-   "price": 3,
+   "price": 3.00,
    "calories": 150
  },
  {
@@ -302,7 +302,7 @@
    "product": "popcorn",
    "id": 33,
    "images": "orville redenbacher",
-   "price": 4.5,
+   "price": 4.50,
    "calories": 90
  },
  {
@@ -311,7 +311,7 @@
    "product": "popcorn",
    "id": 34,
    "images": "pop secret popcorn",
-   "price": 4,
+   "price": 4.00,
    "calories": 80
  },
  {
@@ -329,7 +329,7 @@
    "product": "bread",
    "id": 7,
    "images": "sunbeam giant bread",
-   "price": 4.5,
+   "price": 4.50,
    "calories": 180
  },
  {
@@ -374,7 +374,7 @@
    "product": "vegetable oil",
    "id": 17,
    "images": "vegetable oil",
-   "price": 3,
+   "price": 3.00,
    "calories": 20
  },
  {
@@ -401,7 +401,7 @@
    "product": "icing",
    "id": 20,
    "images": "betty crocker vanilla icing",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 175
  },
  {
@@ -410,7 +410,7 @@
    "product": "icing",
    "id": 21,
    "images": "betty crocker chocolate icing",
-   "price": 2.5,
+   "price": 2.50,
    "calories": 175
  },
  {
@@ -419,7 +419,7 @@
    "product": "ravioli",
    "id": 22,
    "images": "cheff boyardee ravioli",
-   "price": 1,
+   "price": 1.00,
    "calories": 125
  },
  {
@@ -428,7 +428,7 @@
    "product": "soup",
    "id": 23,
    "images": "campbells chicken noodle soup",
-   "price": 1.5,
+   "price": 1.50,
    "calories": 75
  },
  {
@@ -437,7 +437,7 @@
    "product": "soup",
    "id": 24,
    "images": "campbell's tomato soup",
-   "price": 1.5,
+   "price": 1.50,
    "calories": 75
  },
  {
@@ -464,7 +464,7 @@
    "product": "green beans",
    "id": 27,
    "images": "green giant green beans",
-   "price": 1.5,
+   "price": 1.50,
    "calories": 20
  },
  {
@@ -482,7 +482,7 @@
    "product": "drinks",
    "id": 54,
    "images": "coke",
-   "price": 4,
+   "price": 4.00,
    "calories": 180
  },
  {
@@ -491,7 +491,7 @@
    "product": "drinks",
    "id": 55,
    "images": "pepsi",
-   "price": 4,
+   "price": 4.00,
    "calories": 180
  },
  {
@@ -500,7 +500,7 @@
    "product": "drinks",
    "id": 56,
    "images": "mountain dew",
-   "price": 4,
+   "price": 4.00,
    "calories": 180
  },
  {
@@ -509,7 +509,7 @@
    "product": "drinks",
    "id": 57,
    "images": "dr.pepper",
-   "price": 4,
+   "price": 4.00,
    "calories": 180
  },
  {
@@ -518,7 +518,7 @@
    "product": "drinks",
    "id": 58,
    "images": "sprite",
-   "price": 4,
+   "price": 4.00,
    "calories": 180
  }
 ]
